@@ -1,2 +1,2 @@
-# PL01-MEAN_Authentication_APP
-An authentication web app using MEAN by following a YouTuBe tutorial.
+# MeanAuthApplication
+A YouTuBe tutorial about how to build a simple authentication function web app by MEAN.
